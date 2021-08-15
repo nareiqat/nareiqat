@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real-world projects
 - 📫 How to reach me nabeelareiqat@gmail.com
 
-Checkout my website at www.nabeelareiqat.com
+Checkout my website at https://nabeelareiqat.com
 
 <!---
 nareiqat/nareiqat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
