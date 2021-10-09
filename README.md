@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nareiqat
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React and React Native
-- 💞️ I’m looking to collaborate on real-world projects
-- 📫 How to reach me nabeelareiqat@gmail.com
+- 👀 I’m am Full-Stack Web Developer!
+
 
 Checkout my website at https://nabeelareiqat.com
 
