@@ -2,7 +2,7 @@
 - 👀 I’m am Full-Stack Web Developer!
 
 
-Checkout my website at https://nabeelareiqat.com
+Checkout my website at https://nabeelareiqat.netlify.app
 
 <!---
 nareiqat/nareiqat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
