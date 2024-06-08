@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @nareiqat
+- 👋 Hi, I’m my name is Nabeel Areiqat
 - 👀 I’m am Full-Stack Web Developer!
+- Looking for a anytime of Employement!
 
 
 Checkout my website at https://nabeelareiqat.netlify.app
